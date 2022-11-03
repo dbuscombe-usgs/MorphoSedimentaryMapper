@@ -10,7 +10,7 @@ The user will be presented with a web map interface to
 
 This tool will modify and combine two existing functionality from the Doodleverse 
 
-1. [HoloDoodler](https://github.com/Doodleverse/doodler_engine), for providing the doodling interface
+1. [HoloDoodler](https://github.com/Doodleverse/holodoodler), for providing the doodling interface
 2. [doodler_engine](https://github.com/Doodleverse/doodler_engine), for providing the ML used to turn doodles into labels
 3. [Seg2Map](https://github.com/Doodleverse/seg2map), for providing a web-map interface based on ipyleaflets, similar to CoastSeg
 4. [s2m_engine](https://github.com/Doodleverse/s2m_engine), for providing functionality to download NAIP imagery
